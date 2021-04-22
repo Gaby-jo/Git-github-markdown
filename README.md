@@ -278,6 +278,10 @@ For now this magic invocation is all you need to know about the git reset comman
 
 ## push to a remote repository
 
+You can edit the file with notepad or any text editor.
+add the file to the staging area with git add HelloWorld.md
+commit the file to your local repository with git commit -m "edit md"
+push the file to Github with git push origin master
 
 ## branches: create, delete, save/commit & merge 
 
