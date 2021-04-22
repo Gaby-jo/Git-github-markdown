@@ -132,6 +132,8 @@ Drag and drop your selected image into your file
 
 ## get the state of the computer
 
+-$ lsb\_release -a
+
 2) The git / github with examples:
 
 ## the initial configuration
